@@ -3,6 +3,7 @@ Implement the skew algorithm to construct suffix array in O(n) time complexity a
 
 ### Usage
 First, Complile the main.cpp to executable file if needed.
+
 Second, given a selected input DNA sequence as argument, the program will output the suffix array, LCP array and the execution time.
 ```
 ./main seq16.fasta
